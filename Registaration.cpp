@@ -73,10 +73,10 @@
 				break;
 			case 3:
 				cout << "Bye!" << endl;
-				return 0;
+				
 				break;
 			}
-		} while (a != 2);
+		} while (a != 3);
 		
 		return 0;
 	}
